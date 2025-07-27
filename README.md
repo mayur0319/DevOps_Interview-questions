@@ -9,13 +9,16 @@
 
 **Terraform / Infrastructure as Code:**
 
-1. What is Terraform and how is it different from CloudFormation?
-2. What are Terraform modules and how do you use them?
+1. What is Terraform, and how is it different from CloudFormation?
+2. What are Terraform modules, and how do you use them?
 3. How do you manage environments in Terraform using Terragrunt?
 4. Explain the structure you use for organizing Terraform and Terragrunt code.
-5. What are some common issues you’ve faced with Terraform state files and how did you resolve them?
+5. What are some common issues you’ve faced with Terraform state files, and how did you resolve them?
 6. How do you use Terraform to create an EKS cluster or S3 + CloudFront setup?
 7. What are Service Control Policies (SCPs), and how do you implement them using Terraform?
+8. What are lockup functions?
+9. What is the tolist function?
+10. What if you need to create one resource in only one environment? - Answer: Count we can use.
 
 **CI/CD (GitLab, Jenkins, Octopus):**
 
